@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desarrollopc\\Documents\\tarjeta_credito\\Backend\\Backend.csproj": {}
+    "C:\\Users\\desarrollopc\\Documents\\GitHub\\tarjeta_credito\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desarrollopc\\Documents\\tarjeta_credito\\Backend\\Backend.csproj": {
+    "C:\\Users\\desarrollopc\\Documents\\GitHub\\tarjeta_credito\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desarrollopc\\Documents\\tarjeta_credito\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\desarrollopc\\Documents\\GitHub\\tarjeta_credito\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\desarrollopc\\Documents\\tarjeta_credito\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\desarrollopc\\Documents\\GitHub\\tarjeta_credito\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\desarrollopc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desarrollopc\\Documents\\tarjeta_credito\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\desarrollopc\\Documents\\GitHub\\tarjeta_credito\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\desarrollopc\\AppData\\Roaming\\NuGet\\NuGet.Config",

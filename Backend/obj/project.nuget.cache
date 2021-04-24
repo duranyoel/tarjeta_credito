@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2S/d4r+WUDIB9Xbaa+5w/8/fjCMnpCVLRmWlyCJHvuZVMwiGB0Uywkx3OaxWOlqcgp+bNU5wLBBPwEsVxzKdJQ==",
+  "dgSpecHash": "eNVdW57WjzqOVdFTJRwcAo28M57oU7YCiqSB/WVYVXsYrvAg22Xd8qwdZOL1+JnSJ2xGQnSNmUC9f/nbTvQjYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\desarrollopc\\Documents\\tarjeta_credito\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\desarrollopc\\Documents\\GitHub\\tarjeta_credito\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desarrollopc\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\desarrollopc\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
